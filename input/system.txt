@@ -1,0 +1,4 @@
+Protein_chain_A 1 LARGE PROTEIN
+SOL         12767
+NA             34
+CL             42
